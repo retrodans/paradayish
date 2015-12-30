@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        {% if page.title %}
+        <title>{{ page.title }}</title>
+        {% else %}
+        <title>{{ site.name }}</title>
+        {% endif %}
+        <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.6.0/pure-min.css">
+        <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.6.0/grids-responsive-min.css">
+        <link rel="stylesheet" href="/css/style.css">
+        <link rel="alternate" type="application/rss+xml" title="My Site RSS" href="/rss.xml" />
+    </head>
+    <body>
+        <div class="pure-g layout-{{page.section}}" id="layout">
+            <div class="sidebar pure-u-1 pure-u-md-6-24">
+                {% include sidebar.html %}
+            </div>
+            <div class="container pure-u-1 pure-u-md-18-24">
+                {{ content }}
+            </div>
+        </div>
+    </body>
+</html>
+
