@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Hello Jekyll-Pure
+title:  Eeeeexcellent!!!
 tags:
 - Story001
 ---
