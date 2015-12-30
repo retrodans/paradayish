@@ -12,4 +12,4 @@ This site was built quickly using the below open source technologies
 * Jekyll-rb
 * Grunt
 * SASS
-* Github
+* Github and Github Pages
