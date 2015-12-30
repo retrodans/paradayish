@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Eeeeexcellent!!!
+title:  Eeexcellent!!!
 tags:
 - Story001
 ---
