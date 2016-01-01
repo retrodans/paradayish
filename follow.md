@@ -1,0 +1,16 @@
+---
+layout: page
+title: Follow
+permalink: /follow/
+---
+
+<h1 class="content-subhead">Follow</h1>
+
+At the moment, there is only one way to follow this site (other than by opening your web browser) and that is via rss feeds.
+
+To do this, you will need an rss reader.  I find (feedly)[http://feedly.com/] great for this, and then a mobile app (such as greader on android) to get these, and read through them.
+
+The feed can be retrieved at:
+<a class="pure-button" href="{{ site.url }}rss">RSS</a>
+
+At the moment, as the posts are longer than twitter, I do not know of a better way to publish the content, although I am ready to listen, so please do contact me with ideas.

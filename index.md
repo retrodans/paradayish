@@ -9,8 +9,6 @@ title: The story so far
             <h1 class="content-subhead">The story so far...</h1>
             {% assign curDate = site.time | date: '%s' %}
             {% for post in site.posts reversed %}
-                {% for tag in post.tags %}
-                    {% if 'Story001' == tag %}
                         {% assign postStartDate = post.date | date: '%s' %}
                         {% if postStartDate <= curDate %}
                             <section class = "post pure-g">
@@ -29,8 +27,6 @@ title: The story so far
                                 </div>
                             </section>
                         {% endif %}
-                    {% endif %}
-                {% endfor %}
             {% endfor %}
         </div>
 </div>

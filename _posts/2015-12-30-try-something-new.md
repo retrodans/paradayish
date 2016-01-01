@@ -2,7 +2,7 @@
 layout: post
 title:  Try something new (years resolution)
 tags:
-- Story001
+- General
 ---
 
 I am not a huge fan of new years resolutions normally.  The idea of giving things up you like, or doing things you should be doing anyway but cannot normally be bothered.

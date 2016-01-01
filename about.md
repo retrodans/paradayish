@@ -14,7 +14,7 @@ I will try to write a short paragraph each day, or maybe a few in advance so it 
 
 The stories will all sit on github in the code, and are available to all to read.
 
-If you have any questions, or would like to contact me about these posts, please contact email me at: dan AT retrobadger DOT net
+If you have any questions, or would like to contact me about these posts, please contact email me at: paradayish AT retrobadger DOT net
 
 ## But why Paradayish?
 Well, simply put, the original idea was to do a paragraph a day, then I figured I may do more/less/none on some days, hence the ish.
