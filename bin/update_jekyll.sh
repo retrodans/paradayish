@@ -8,6 +8,7 @@ echo $FULLFILEPATH
 
 # Preperation
 cd $CURRENTPATH
+git fetch
 git checkout gh-pages
 git reset --hard origin/gh-pages
 
