@@ -38,9 +38,11 @@ p, h1, h2, h3, h4, h5, h6, li {
 
 a {
   text-decoration: none;
+  font-weight: bold;
   color: #3d4f5d; }
-  a:hover {
-    text-decoration: underline; }
+
+a:hover {
+  text-decoration: underline; }
 
 .layout-story {
   text-align: center; }
