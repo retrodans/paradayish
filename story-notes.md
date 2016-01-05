@@ -19,6 +19,11 @@ The purpose of this file is for me to write notes about the key things happening
 ## Locations
 * [Lake](/story-notes/locations/#lake)
 
+## Other references
+* [Spirit Ribbons](http://new-age-spirituality.com/spirit/color.html)
+  * Indigo = Spiritual (he was looking for this)
+  * Black = Unconscious, mystery
+
 ## Possible plot tools
 * Rook has flown off towards trees from lake
 * Blue lightning connection between rook and man
