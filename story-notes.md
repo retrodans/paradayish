@@ -40,10 +40,12 @@ The purpose of this file is for me to write notes about the key things happening
 
 
 ## Next steps
-* Closes out with the ship turning and flying towards a city, describe the city from a distance (steampunk)
-As the crane settles onto the airships boards, those surrounding it detach the cables, and tidy everything away.  Pulling apart the lego-like structure which had been created, and tidying their toys away neatly, just like every parents dream.  The man feins unconsciousness, and allows those around him to detach the crane, and carry him away.  They seem gentle (well, as gentle as sailors can be), and rest him on a soft bed in a room, granted they chain his ankle, and lock the door, but that only seems fair.  The time for resting was over though, now it was time to think, and if possible, remember.
-
-*
-The ship rotates in the clouds, a huge goliath in the sky, towering down on everything below it.  As it turns, the new direction comes into view, and even from this distance it looks glorious.  The rooftops shine with metallic tiling, the airways are busy with much smaller flying contraptions, and there are even more fantastical things on the streets.  Small tin boxes with legs, others with wheels, and even a few which appeared to move around on goo.  This could be a lovely place to look around, if only there wasn't that small element of terror around every corner.
-
-CHAPTER END
+CHAPTER TWO
+* Rook rummages in ornate drawers, one of them is locked, uses beak to open it
+* Rook looks inside drawer, just a single piece of paper, a diagram for some machine : describe a kaiju, machine guns on shoulders, upside down trapesium body, stumpy head, flame in sternum, tank tracks instead of legs, lots of cogs
+* Rook takes a bite from an extinguised candle, rolls up the paper, then spits the wax to reseal it. Then flies to a corner unit, and drops it behind, before jumping to the window, and flying out
+* Rook feels a pull in it's mind, encouraging it to go up, and towards the helm of the ship, finds a specific window, and peeks through, there is the man
+* Rook describes the room the man is in, he lies, eyes open, looking at the ceiling, thinking, ends with man turning to look at the Rook, Rooks emotion goes from concern as to what is happening, to reluctance over what will happen next
+* Rook flies up to main deck, lands just out of sight, explain the ship we are on
+* Rook slowly edges it's way to a door leading into the ships hull, and heads in
+NEXT: Rook goes through ship, investigating, nearly dying several times, eating lots, before finding man.

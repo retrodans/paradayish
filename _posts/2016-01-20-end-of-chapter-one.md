@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  Skyline
+title:  End of Chapter One
 tags:
-- Story001
-- Chapter001
+- General
 ---
 
 ## End of Chapter One
