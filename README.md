@@ -1,7 +1,11 @@
 Paradayish
 ===========
 
-“A constantly evolving far-fetched story, with regular (daily/weekly) installments”
+Project brief: “A constantly evolving far-fetched story, with regular (daily/weekly) installments”
+
+Tagline: "In a world of science and steam, a man and a rook are called upon to fix the world. Let's just hope they know what they are doing!"
+
+URL: http://retrodans.github.io/paradayish/
 
 The idea of this was to try and get into writing something. I don’t necessarily mind if it is good or not, but the creative process of writing anything was important to get away from the pure consumption lifestyle of TV/Podcasts I sometimes slide into.
 
