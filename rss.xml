@@ -10,7 +10,6 @@ layout: null
     {% assign curDate = site.time | date: '%s' %}
     {% for post in site.posts reversed %}
     {% for tag in post.tags %}
-    {% if 'Story001' == tag %}
     {% assign postStartDate = post.date | date: '%s' %}
     {% if postStartDate <= curDate %}
       {% unless post.link %}
@@ -27,7 +26,6 @@ layout: null
         <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
       </item>
       {% endunless %}
-    {% endif %}
     {% endif %}
     {% endfor %}
     {% endfor %}
