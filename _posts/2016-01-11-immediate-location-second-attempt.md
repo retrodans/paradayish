@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Immediate location: Second attempt
+title:  Immediate location - Second attempt
 tags:
 - Story001
 - Chapter001
