@@ -7,8 +7,10 @@ title: The story so far
 <div class="posts">
         <div class = "content">
             <h1 class="content-subhead">The story so far...</h1>
+            <p>Note: This page shows the 5 most recent articles, but in order, so the most recent chapter is towards the bottom of this page.</p>
+            <p>For the full story, go to the <a href="/story">full story</a> page.</p>
             {% assign curDate = site.time | date: '%s' %}
-            {% for post in site.posts reversed %}
+            {% for post in site.posts reversed limit:5 %}
                         {% assign postStartDate = post.date | date: '%s' %}
                         {% if postStartDate <= curDate %}
                             <section class = "post pure-g">
