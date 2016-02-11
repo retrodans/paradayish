@@ -41,7 +41,6 @@ The purpose of this file is for me to write notes about the key things happening
 
 ## Next steps
 CHAPTER TWO - next bits
-* Rook feels a pull in it's mind, encouraging it to go up, and towards the helm of the ship, finds a specific window, and peeks through, there is the man
 * Rook describes the room the man is in, he lies, eyes open, looking at the ceiling, thinking, ends with man turning to look at the Rook, Rooks emotion goes from concern as to what is happening, to reluctance over what will happen next
 * Rook flies up to main deck, lands just out of sight, explain the ship we are on
 * Rook slowly edges it's way to a door leading into the ships hull, and heads in
@@ -57,4 +56,4 @@ NEXT: Rook goes through ship, investigating, nearly dying several times, eating 
 
 
 
-The shock of being so high suprised the Rook as it left, whilst it is used to flying, the act of leaving a room through a window is rarely met with clouds and migrating geese.
+
