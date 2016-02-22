@@ -16,6 +16,7 @@ permalink: /story-notes/characters/
 
 ## Man
 * **Hair color:** Brown
+* **Eye color:** Very dark brown
 * **Hair style:** Scarecrow
 * **Facial hair:** Unkempt, but not a full beard (yet)
 * **Height:** 5' 10"
