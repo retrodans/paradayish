@@ -29,7 +29,7 @@ title: The story so far
                                             {{ post.content }}
                                         {% else %}
                                             <p>{{ post.custom_excerpt }}</p>
-                                            <a href="{{ post.url }}">Read more</a>
+                                            <a href="{{ site.url }}{{ post.url }}">Read more</a>
                                         {% endif %}
                                     </div>
                                 </div>

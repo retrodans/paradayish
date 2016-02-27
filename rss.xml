@@ -17,7 +17,7 @@ layout: null
         {% assign custom_excerpts = post.custom_excerpt | strip_newlines %}
         {% if custom_excerpts != "" %}
           <p>{{ post.custom_excerpt }}</p>
-          <a href="{{ post.url }}">Read more</a>
+          <a href="{{ site.url }}{{ post.url }}">Read more</a>
         {% elsif post.excerpt %}
           <description>{{ post.excerpt | xml_escape }}</description>
         {% else %}
