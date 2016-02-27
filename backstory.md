@@ -1,16 +1,17 @@
 ---
 layout: page
-section: story
-title: The story so far
+section: Other
+title: Backstory - a selection of backstories for people/characters you never knew/cared about
+permalink: /backstory/
 ---
 
 <div class="posts">
         <div class = "content">
-            <h1 class="content-subhead">The story so far...</h1>
-            <p>Note: This page shows the 5 most recent articles, but in order, so the most recent chapter is towards the bottom of this page.</p>
-            <p>For the full story, go to the <a href="/story">full story</a> page.</p>
+            <h1 class="content-subhead">Backstory</h1>
             {% assign curDate = site.time | date: '%s' %}
-            {% for post in site.posts reversed limit:5 %}
+            {% for post in site.posts reversed %}
+                {% for tag in post.tags %}
+                    {% if 'Backstory' == tag %}
                         {% assign postStartDate = post.date | date: '%s' %}
                         {% if postStartDate <= curDate %}
                             <section class = "post pure-g">
@@ -24,17 +25,13 @@ title: The story so far
                                 </header>
                                 <div class = "post-description pure-u-md-4-5 pure-u-5-5">
                                     <div class="content-wrapper">
-                                        {% assign content = post.custom_excerpt | strip_newlines %}
-                                        {% if content == "" %}
-                                            {{ post.content }}
-                                        {% else %}
-                                            <p>{{ post.custom_excerpt }}</p>
-                                            <a href="{{ post.url }}">Read more</a>
-                                        {% endif %}
+                                        {{ post.content }}
                                     </div>
                                 </div>
                             </section>
                         {% endif %}
+                    {% endif %}
+                {% endfor %}
             {% endfor %}
         </div>
 </div>
